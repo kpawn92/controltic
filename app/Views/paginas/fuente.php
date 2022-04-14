@@ -290,6 +290,7 @@ active
             </div>
         </div>
     </div>
+    <!-- estto es una prueba -->
     <!-- general form elements -->
 </div>
 <?= $this->endSection(); ?>
